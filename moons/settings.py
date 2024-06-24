@@ -27,7 +27,7 @@ SECRET_KEY = '*$=%m9nt@t6wyesb(=$6f323hb9h)9xs3hkf9#859+%&&=g&-9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['moons-ce6838cc8a56.herokuapp.com']
+ALLOWED_HOSTS = ['moons-ce6838cc8a56.herokuapp.com','127.0.0.1']
 
 
 
