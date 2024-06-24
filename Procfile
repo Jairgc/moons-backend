@@ -1,1 +1,1 @@
-web: gunicorn moons.wsgi
+web: gunicorn moons.wsgi --log-file -
